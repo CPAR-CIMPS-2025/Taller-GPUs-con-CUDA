@@ -7,7 +7,7 @@ make vecadd
 ```
 
 ```
-vecadd
+./vecadd
 ```
 
 ## Reduccion de suma
@@ -17,6 +17,6 @@ make reduce
 ```
 
 ```
-reduce
+./reduce
 ```
 

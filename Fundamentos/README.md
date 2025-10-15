@@ -2,19 +2,27 @@
 
 ## Suma de vectores
 
+### Compilación
+
 ```
 make vecadd
 ```
+
+### Ejecución
 
 ```
 ./vecadd
 ```
 
-## Reduccion de suma
+## Reducción de suma
+
+### Ejecución
 
 ```
 make reduce
 ```
+
+### Ejecución
 
 ```
 ./reduce
